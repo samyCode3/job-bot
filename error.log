@@ -1,0 +1,14 @@
+2023-10-11T16:47:46.626Z [info] error: Database fails to connect SequelizeDatabaseError: Can't create table `job_bot`.`jobinfos` (errno: 150 "Foreign key constraint is incorrectly formed")
+2023-10-11T17:19:33.661Z [info] error: Database fails to connect SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: NO)
+2023-10-11T17:27:10.079Z [info] error: Database fails to connect SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: NO)
+2023-10-12T06:59:26.126Z [info] error: Database fails to connect SequelizeDatabaseError: Duplicate column name 'accountId'
+2023-10-12T06:59:43.418Z [info] error: Database fails to connect SequelizeDatabaseError: Duplicate column name 'accountId'
+2023-10-12T07:00:18.865Z [info] error: Database fails to connect SequelizeDatabaseError: Duplicate column name 'accountId'
+2023-10-12T10:34:07.686Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:34:26.809Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:34:39.869Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:36:57.622Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:37:20.550Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:37:45.699Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:38:07.186Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:39:23.904Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed

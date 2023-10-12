@@ -1,0 +1,176 @@
+2023-10-11T13:23:03.080Z [right meow!] info: App is running on port http://localhost:3005
+2023-10-11T13:23:03.208Z [right meow!] info: Server is running
+2023-10-11T13:23:59.778Z [right meow!] info: App is running on port http://localhost:3005
+2023-10-11T13:30:22.768Z [right meow!] info: App is running on port http://localhost:3005
+2023-10-11T13:30:43.737Z [info] info: App is running on port http://localhost:3005
+2023-10-11T13:31:08.398Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:31:43.135Z [info] info: Database is conneted
+2023-10-11T16:31:43.258Z [info] info: App is running on port http://localhost:3005
+{"level":"info","message":"Database is conneted"}
+{"level":"info","message":"App is running on port http://localhost:3005"}
+2023-10-11T16:33:21.699Z [info] info: Database is conneted
+2023-10-11T16:33:21.714Z [info] info: App is running on port http://localhost:3005
+{"level":"info","message":"Database is conneted","service":"user-service"}
+{"level":"info","message":"App is running on port http://localhost:3005","service":"user-service"}
+2023-10-11T16:37:15.506Z [info] info: Database is conneted
+2023-10-11T16:37:15.521Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:40:17.428Z [info] info: Database is conneted
+2023-10-11T16:40:17.486Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:41:03.945Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:41:04.255Z [info] info: Database is conneted
+2023-10-11T16:41:25.766Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:41:26.112Z [info] info: Database is conneted
+2023-10-11T16:41:33.282Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:41:35.970Z [info] info: Database is conneted
+2023-10-11T16:42:03.669Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:42:04.200Z [info] info: Database is conneted
+2023-10-11T16:43:24.941Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:43:25.563Z [info] info: Database is conneted
+2023-10-11T16:47:44.849Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:47:46.626Z [info] error: Database fails to connect SequelizeDatabaseError: Can't create table `job_bot`.`jobinfos` (errno: 150 "Foreign key constraint is incorrectly formed")
+2023-10-11T16:49:40.618Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:49:41.427Z [info] info: Database is conneted
+2023-10-11T16:50:35.591Z [info] info: App is running on port http://localhost:3005
+2023-10-11T16:50:35.826Z [info] info: Database is conneted
+2023-10-11T17:00:22.143Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:00:23.238Z [info] info: Database is conneted
+2023-10-11T17:09:26.503Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:09:27.366Z [info] info: Database is conneted
+2023-10-11T17:10:42.802Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:10:43.170Z [info] info: Database is conneted
+2023-10-11T17:11:42.130Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:11:42.466Z [info] info: Database is conneted
+2023-10-11T17:15:41.857Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:15:43.545Z [info] info: Database is conneted
+2023-10-11T17:18:41.264Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:18:42.061Z [info] info: Database is conneted
+2023-10-11T17:19:29.655Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:19:33.661Z [info] error: Database fails to connect SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: NO)
+2023-10-11T17:21:58.762Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:21:59.327Z [info] info: Database is conneted
+2023-10-11T17:22:35.568Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:22:35.878Z [info] info: Database is conneted
+2023-10-11T17:22:51.838Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:22:52.196Z [info] info: Database is conneted
+2023-10-11T17:23:38.605Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:23:39.040Z [info] info: Database is conneted
+2023-10-11T17:23:55.613Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:23:56.089Z [info] info: Database is conneted
+2023-10-11T17:27:09.543Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:27:10.079Z [info] error: Database fails to connect SequelizeAccessDeniedError: Access denied for user ''@'localhost' (using password: NO)
+2023-10-11T17:38:37.190Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:38:39.206Z [info] info: Database is conneted
+2023-10-11T17:44:33.894Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:44:34.848Z [info] info: Database is conneted
+2023-10-11T17:45:54.820Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:45:55.244Z [info] info: Database is conneted
+2023-10-11T17:46:21.955Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:46:22.399Z [info] info: Database is conneted
+2023-10-11T17:46:48.974Z [info] info: App is running on port http://localhost:3005
+2023-10-11T17:46:49.258Z [info] info: Database is conneted
+2023-10-11T18:10:41.961Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:10:43.287Z [info] info: Database is conneted
+2023-10-11T18:15:08.430Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:15:09.734Z [info] info: Database is conneted
+2023-10-11T18:19:15.349Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:19:21.723Z [info] info: Database is conneted
+2023-10-11T18:20:45.315Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:20:45.896Z [info] info: Database is conneted
+2023-10-11T18:21:17.960Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:21:18.305Z [info] info: Database is conneted
+2023-10-11T18:21:36.110Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:21:36.553Z [info] info: Database is conneted
+2023-10-11T18:23:53.392Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:23:53.760Z [info] info: Database is conneted
+2023-10-11T18:24:51.036Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:24:55.075Z [info] info: Database is conneted
+2023-10-11T18:25:30.855Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:25:32.306Z [info] info: Database is conneted
+2023-10-11T18:27:21.583Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:27:24.388Z [info] info: Database is conneted
+2023-10-11T18:30:42.085Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:30:51.344Z [info] info: Database is conneted
+2023-10-11T18:31:30.230Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:31:32.967Z [info] info: Database is conneted
+2023-10-11T18:34:27.769Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:34:32.805Z [info] info: Database is conneted
+2023-10-11T18:50:04.189Z [info] info: App is running on port http://localhost:3005
+2023-10-11T18:50:14.694Z [info] info: Database is conneted
+2023-10-12T06:58:12.467Z [info] info: App is running on port http://localhost:3005
+2023-10-12T06:58:33.100Z [info] info: Database is conneted
+2023-10-12T06:59:22.560Z [info] info: App is running on port http://localhost:3005
+2023-10-12T06:59:26.126Z [info] error: Database fails to connect SequelizeDatabaseError: Duplicate column name 'accountId'
+2023-10-12T06:59:37.343Z [info] info: App is running on port http://localhost:3005
+2023-10-12T06:59:43.418Z [info] error: Database fails to connect SequelizeDatabaseError: Duplicate column name 'accountId'
+2023-10-12T07:00:16.267Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:00:18.865Z [info] error: Database fails to connect SequelizeDatabaseError: Duplicate column name 'accountId'
+2023-10-12T07:00:38.496Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:00:54.638Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:01:08.877Z [info] info: Database is conneted
+2023-10-12T07:06:42.905Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:08:20.107Z [info] info: Database is conneted
+2023-10-12T07:10:07.437Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:10:25.798Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:11:14.114Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:11:44.773Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:12:14.266Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:14:08.415Z [info] info: App is running on port http://localhost:3005
+2023-10-12T07:14:58.926Z [info] info: Database is conneted
+2023-10-12T09:05:45.595Z [info] info: App is running on port http://localhost:3005
+2023-10-12T09:07:00.851Z [info] info: Database is conneted
+2023-10-12T10:33:13.047Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:34:06.175Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:34:07.686Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:34:26.202Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:34:26.809Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:34:39.334Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:34:39.869Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:36:57.150Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:36:57.622Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:37:19.775Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:37:20.550Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:37:43.594Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:37:45.699Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:38:06.106Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:38:07.186Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:39:23.069Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:39:23.904Z [info] error: Database fails to connect SequelizeDatabaseError: Too many keys specified; max 64 keys allowed
+2023-10-12T10:39:38.795Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:39:55.863Z [info] info: Database is conneted
+2023-10-12T10:46:15.273Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:46:25.387Z [info] info: Database is conneted
+2023-10-12T10:47:22.843Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:47:31.843Z [info] info: Database is conneted
+2023-10-12T10:48:19.109Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:48:37.388Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:48:51.385Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:49:39.872Z [info] warn: Ip: ::1, Method :  GET, Url: /favicon.ico, message: 'Make a valid request please...'
+2023-10-12T10:49:40.067Z [info] warn: Ip: ::1, Method :  GET, Url: /favicon.ico, message: 'Make a valid request please...'
+2023-10-12T10:49:52.189Z [info] warn: Ip: ::1, Method :  GET, Url: /gtr, message: 'Make a valid request please...'
+2023-10-12T10:50:56.362Z [info] warn: Ip: ::1, Method :  GET, Url: /gtr, message: 'Make a valid request please...'
+2023-10-12T10:52:52.553Z [info] warn: Ip: ::ffff:127.0.0.1, Method :  GET, Url: /api/v1/account/create, message: 'Make a valid request please...'
+2023-10-12T10:54:16.668Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:55:12.755Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:57:53.732Z [info] info: App is running on port http://localhost:3005
+2023-10-12T10:58:25.013Z [info] info: App is running on port http://localhost:3005
+2023-10-12T11:00:19.522Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:29:58.465Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:30:07.319Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:33:29.386Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:34:25.872Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:34:42.291Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:35:11.130Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:35:24.858Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:36:20.355Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:36:50.885Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:37:05.127Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:37:11.307Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:37:30.453Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:37:36.690Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:38:02.523Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:44:45.174Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:45:08.794Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:46:13.614Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:46:48.019Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:48:55.706Z [info] info: App is running on port http://localhost:3005
+2023-10-12T12:50:48.443Z [info] info: App is running on port http://localhost:3005

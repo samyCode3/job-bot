@@ -1,0 +1,1 @@
+export {AccountAttributeInterface, JobAttributeInterface} from './interface/account'
