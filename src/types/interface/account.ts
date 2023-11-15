@@ -14,7 +14,6 @@ export interface AccountAttributeInterface {
 
 export interface JobAttributeInterface  {
      id? : number,
-     user_id: number,
      job_title : string,
      description : string,
      address : string,

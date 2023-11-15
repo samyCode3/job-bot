@@ -5,11 +5,10 @@ import { Account } from "./account";
 
 export type JobId = 'id';
 export type JobPk = Job[JobId]
-export type JobAttributes =  'id' | 'user_id' | 'job_title' | 'description' | 'address' | 'phone_num' | 'skills' | 'resume' | 'position' | 'country' | 'postal_code'
+export type JobAttributes =  'id'| 'job_title' | 'description' | 'address' | 'phone_num' | 'skills' | 'resume' | 'position' | 'country' | 'postal_code'
 export type JobCreationAtrribute = Optional<JobAttributeInterface, JobAttributes>
 export class Job extends Model <JobAttributeInterface, JobCreationAtrribute> implements JobAttributeInterface {
          id!: number;
-         user_id: number;
          job_title: string;
          description: string;
          address: string;
@@ -27,14 +26,6 @@ Job.init({
         primaryKey: true,
         autoIncrement: true,
         allowNull: false
-    },
-    user_id: {
-        type: DataTypes.INTEGER,
-        allowNull: false,
-        references : {
-            model: Account,
-            key: 'id'
-        }
     },
     job_title:{
         type: DataTypes.STRING,
